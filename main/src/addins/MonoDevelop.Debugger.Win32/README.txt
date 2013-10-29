@@ -5,5 +5,4 @@ API changes are to be marked with [Xamarin] tags.
 
 API changes are to be done with tabs as it's easier to differentiate between their code and our code.
 
-Post-update API changes can be applied with this commit:
-5056a6ade8e0d0e8398c13dcbba734ea25419b87
+Most API changes are implementations of NotImplementedException or use of Extension code.
